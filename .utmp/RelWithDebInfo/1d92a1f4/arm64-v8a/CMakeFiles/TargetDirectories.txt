@@ -1,5 +1,0 @@
-C:/Users/vlad/REELSELF/.utmp/RelWithDebInfo/1d92a1f4/arm64-v8a/CMakeFiles/edit_cache.dir
-C:/Users/vlad/REELSELF/.utmp/RelWithDebInfo/1d92a1f4/arm64-v8a/CMakeFiles/rebuild_cache.dir
-C:/Users/vlad/REELSELF/.utmp/RelWithDebInfo/1d92a1f4/arm64-v8a/GameActivity/CMakeFiles/game.dir
-C:/Users/vlad/REELSELF/.utmp/RelWithDebInfo/1d92a1f4/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
-C:/Users/vlad/REELSELF/.utmp/RelWithDebInfo/1d92a1f4/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
